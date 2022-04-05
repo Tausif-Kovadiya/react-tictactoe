@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+table td {
+  border: 1px solid grey;
+  height: 100px;
+  width: 100px;
+}
+
+td {
+  background-color: beige;
+  color: brown;
+}
